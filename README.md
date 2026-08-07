@@ -29,6 +29,8 @@
 2. 입력창을 비우고 `Esc` 두 번 (되돌리기)
 3. `/clear` 하고 카드를 다시 붙여넣는다
 
+공동 작업 시트 : https://docs.google.com/spreadsheets/d/1Bt_qtFmL9VAfh-vBVTKkvMePXjPXQgxcXGt8Q4jfiAo/edit?usp=sharing
+
 ---
 
 *모든 데이터는 교육용으로 만든 가상의 것입니다. 실존 회사·거래처와 무관합니다.*
