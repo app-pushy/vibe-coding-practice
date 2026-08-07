@@ -3,6 +3,8 @@
 「AI·AX 실무 아카데미」 4주차 · 명세 주도 개발 & Claude Code
 (주)한빛산업 2026년 7월 마감 · **교육용 가상 데이터**
 
+PPT장표 : [Slide](https://docs.google.com/presentation/d/1gHG30zvGV3gHHFIna5Bg66bmEnxY9Kcw/edit?usp=sharing&ouid=108948856834655337027&rtpof=true&sd=true)
+
 ## 다운로드 (강의 전에 해주세요)
 
 **[📦 monthly-close.zip 내려받기](https://github.com/app-pushy/vibe-coding-practice/raw/main/monthly-close.zip)**
