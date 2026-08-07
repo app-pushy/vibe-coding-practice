@@ -19,9 +19,8 @@ PPT장표 : [Slide](https://docs.google.com/presentation/d/1gHG30zvGV3gHHFIna5Bg
 |---|---|
 | `CLAUDE.md` | 이 폴더에서 지킬 작업 규칙 |
 | `마감체크리스트.md` | 경리팀이 매달 손으로 확인하던 항목 7개 |
-| `data/` | 마감 자료 6개 (CSV 5 + 전월 리포트 1) — 읽기만 합니다 |
+| `data/` | 마감 자료 6개 (CSV 5 + 인수인계 메모 1) — 읽기만 합니다 |
 | `prompts/` | 붙여넣기 카드 4장 — 실습 순서대로 씁니다 |
-| `xlsx/` | 같은 자료의 엑셀본 — 오늘 실습에서는 쓰지 않습니다 |
 
 자세한 시작 방법은 폴더 안 `README.txt` 를 읽어 주세요.
 
